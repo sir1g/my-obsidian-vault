@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "bd236f4b147c1a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "d86a24e01d189ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dec6b59cd1c4e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithm"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb1a6490c1c387a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f070a4ca996d5b64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "846a58a5fb4dab8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f8d14e0dfde7ad63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e886f4b87879d3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb9aaf5426b1ef2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e77275009589da2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f845aebe2dc83a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c5e3bd61429c00b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Source Material/LOGIKA & ALGORITMA PEMROGRAMAN.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LOGIKA & ALGORITMA PEMROGRAMAN"
+            }
+          },
+          {
+            "id": "fff83fe1934ed8c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Source Material/LOGIKA & ALGORITMA PEMROGRAMAN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LOGIKA & ALGORITMA PEMROGRAMAN"
+            }
+          },
+          {
+            "id": "d038fc759e02bb3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Source Material/LOGIKA & ALGORITMA PEMROGRAMAN.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LOGIKA & ALGORITMA PEMROGRAMAN"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5dec6b59cd1c4e69",
+  "lastOpenFiles": [
+    "5 - Templates/Full Note.md",
+    "5 - Templates/Rough Notes.md",
+    "3 - Tags/computer science.md",
+    "3 - Tags/algorithm.md",
+    "1 - Rough Notes/Algorithm.md",
+    "2 - Source Material/LOGIKA & ALGORITMA PEMROGRAMAN.md",
+    "6 - Main Notes/Untitled.md",
+    "1 - Rough Notes/Hello.md",
+    "Untitled",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material",
+    "Rough Notes/Untitled.md",
+    "1 - Rough Notes",
+    "Welcome.md"
+  ]
+}
